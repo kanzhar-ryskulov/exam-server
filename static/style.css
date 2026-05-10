@@ -1,0 +1,12 @@
+.title {
+    color: yellowgreen;
+}
+
+.article {
+    font-style: italic;
+}
+
+.image {
+    width: 200px;
+    height: auto;
+}

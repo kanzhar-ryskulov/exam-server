@@ -1,0 +1,25 @@
+[
+    {
+        "type": [
+            "for a date",
+            "wedding"
+        ],
+        "price": "500",
+        "img": "https://yourflowersguide.com/wp-content/uploads/2025/09/Rose-main-771x1024.webp",
+        "description": "                    It was a dark and stormy night...\r\n                    ",
+        "title": "Rose",
+        "id": 1
+    },
+    {
+        "type": [
+            "wedding",
+            "present",
+            "birthday"
+        ],
+        "price": "450",
+        "img": "https://cdn.accentuate.io/559090204840/1651765103900/Tulip-Single-Rounded-299x315.jpeg?v=0",
+        "description": "very inresting things are around us",
+        "title": "Tulip",
+        "id": 2
+    }
+]
